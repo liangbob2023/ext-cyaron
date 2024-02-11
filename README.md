@@ -1,10 +1,14 @@
-# Project CYaRon
-**CYaRon** **Y**et **A**nother **R**andom **O**lympic-i**N**formatics test data generator
+# Project Ext-CYaRon
 
-**By Luogu** 项目地址: [https://github.com/luogu-dev/cyaron](https://github.com/luogu-dev/cyaron)
+**Extended**-**CYaRon** **Y**et **A**nother **R**andom **O**lympic-i**N**formatics test data generator
 
+本项目为洛谷项目 CYaRon 的衍生项目，主要目的为给各 OIer 提供一个功能更齐全的 CYaRon。
 
-[![](https://travis-ci.org/luogu-dev/cyaron.svg?branch=master)](https://travis-ci.org/luogu-dev/cyaron)
+**By Luogu & liangbob** 项目地址: [https://github.com/luogu-dev/cyaron](https://github.com/luogu-dev/cyaron)
+
+下方内容为原 CYaRon 项目的 Readme 文件内容
+
+-----------------------------------------
 
 你是否遇到以下情况：
 - 希望在5分钟内写出一组随机数据，并方便地使用它们对拍几个程序
